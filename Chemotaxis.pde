@@ -1,5 +1,5 @@
 Bacteria[] colony;
-
+ 
 void setup() {
   size(800, 600);
   colony = new Bacteria[100];
